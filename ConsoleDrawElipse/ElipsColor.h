@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include "Elips.h"
-
+//DON`T FUCKING TOCH ME
 class MyColor {
 private: int red, green, blue;
 
@@ -28,6 +28,7 @@ public:
 		return (this->red << 16) | (this->green << 8) | this->blue;
 	}
 };
+//HERE U CAN
 
 class ElipsColor : public Elips {
 private:
