@@ -32,7 +32,7 @@ public:
 
 class ElipsColor : public Elips {
 private:
-	MyColor color;
+	MyColor color; //handwriting
 
 public:
 	ElipsColor();
